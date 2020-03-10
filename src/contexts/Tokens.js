@@ -654,6 +654,26 @@ export const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0xaF51BaAA766b65E8B3Ee0C2c33186325ED01eBD5'
     }
+  },
+  42: {
+    '0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa': {
+      [NAME]: 'Dai',
+      [SYMBOL]: 'DAI',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x613639E23E91fd54d50eAfd6925AF2Ed6701A46b'
+    },
+    '0xe7bc397dbd069fc7d0109c0636d06888bb50668c': {
+      [NAME]: 'Compound Dai',
+      [SYMBOL]: 'cDAI',
+      [DECIMALS]: 8,
+      [EXCHANGE_ADDRESS]: '0xBD2d4cBB082093D11F2040705117D9e1784B50B9'
+    },
+    '0x58ad4cb396411b691a9aab6f74545b2c5217fe6a': {
+      [NAME]: 'Aave Interest bearing DAI',
+      [SYMBOL]: 'aDAI',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x68Da056feB1158B8c4726830cF76B23905A7eb1D'
+    }
   }
 }
 
